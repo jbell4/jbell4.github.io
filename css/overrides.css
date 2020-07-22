@@ -1,0 +1,149 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 5px;
+    font-size: 50px;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 3px;
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    font-family: Helvetica, sans-serif !important;
+    letter-spacing: 0.1vw;
+}
+#nav-style{
+    position: ;
+    overflow: hidden;
+}
+h6{
+    width: 100%;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#center-meat{
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+a.no-decoration{
+    color: #FFF !important;
+}
+
+
+.contact-container{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.splash-text{
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+
+#splash-image{
+    padding-top: 15px;
+}
+
+@media (max-width: 2000px) {
+    h4,
+    .h4 {
+      font-size: calc(1.275rem + 0.3vw);
+    }
+    .display-2 {
+      font-size: calc(1.675rem + 5.1vw);
+    }
+    .splash-text {
+      font-size: calc(1.4rem + 0.4vw);
+      color: #000;
+    }
+  }
+
+.page-footer{
+    padding-top: 65px;
+    color: #333
+}
+
+.splash-padding{
+    padding-top: 40px;
+}
+
+.splash-1{
+    padding-top:50px
+}
+
+
+#science-head, #houseparent, 
+#computer-engineering, #science, 
+#downloads-samples, #qualification-skills,
+#finish{
+    display: none;
+}
+
+ul {
+    border: none !important;
+}
+
+.disabled{
+    color: #ccc !important;
+}
+
+nav:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+
+
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
+  
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+
+
+p.display-6 {
+    text-decoration: underline;
+}
+
+p.subtext{
+    display: none;
+    padding-top: 10px;
+}
+
+.btn-info{
+    color: white;
+    border: none;
+}
+
+.continue{
+    display:none;
+}
+
+.link{
+    color: blue;
+    display: none;
+}
+
+iframe {
+    display: none;
+}
