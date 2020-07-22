@@ -128,6 +128,7 @@ p.display-6 {
 p.subtext{
     display: none;
     padding-top: 10px;
+    line-height: 1.5;
 }
 
 .btn-info{
