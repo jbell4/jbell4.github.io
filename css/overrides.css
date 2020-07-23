@@ -75,7 +75,7 @@ a.no-decoration{
 }
 
 .splash-1{
-    padding-top:50px
+    padding-top:50px;
 }
 
 
@@ -106,8 +106,6 @@ a {
 a:hover {
     color: black;
 }
-
-
 
 
 .navbar .navbar-nav {
@@ -147,4 +145,8 @@ p.subtext{
 
 iframe {
     display: none;
+}
+
+.list-group-flush{
+    padding: 0px;
 }
